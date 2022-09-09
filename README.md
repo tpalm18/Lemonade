@@ -25,7 +25,7 @@ Check out [API LIVE DEMO](https://natasha-lemonade-backend.herokuapp.com/) here!
 1. Git Clone
 
 ```
-git clone https://github.com/ptlsheetal/Lemonade.git
+git clone https://github.com/tpalm18/Lemonade.git
 ```
 
 2. Backend setting
